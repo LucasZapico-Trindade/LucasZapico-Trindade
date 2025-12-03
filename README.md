@@ -10,13 +10,13 @@ Busco minha primeira oportunidade como estagiário em TI, onde eu possa aplicar 
   
   🔧 Tecnologias e Conceitos
 
-  ✔ -Python
-  ✔ -Lógica de Programação
-  ✔ -Estruturas de Repetição
-  ✔ -Estruturas Condicionais
-  ✔ -Funções
-  ✔ -SQL
-  ✔ -HTML & CSS
+  **✔ Python**
+  **✔ Lógica de Programação**
+  **✔ Estruturas de Repetição**
+  **✔ Estruturas Condicionais**
+  **✔ Funções**
+  **✔ SQL**
+  **✔ HTML & CSS**
   
 🛠️ Ferramentas que utilizo
 
