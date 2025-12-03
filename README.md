@@ -1,8 +1,8 @@
 🧑‍💻 Lucas Trindade
 Estudante de Análise e Desenvolvimento de Sistemas
-<div align="center">
+
 👨‍🎓 Estudante dedicado | Futuro Desenvolvedor Backend | Buscando Estágio
-</div>
+
 🧩 Sobre mim
 
 Sou Lucas Trindade, estudante de Análise e Desenvolvimento de Sistemas e atualmente no final do primeiro semestre. Estou construindo uma base sólida em lógica, programação e backend, além de participar de um bootcamp para acelerar minha evolução.
@@ -46,27 +46,6 @@ Bootcamp em andamento
 
 Criação de projetos para desenvolvimento técnico
 
-📊 Estatísticas (automáticas ao colocar no README)
-<div align="center">
-
-</div>
-
-🏆 Badges de Tecnologias
-<div align="left">
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
 📫 Como me encontrar
 
 Posso adicionar seus links de:
