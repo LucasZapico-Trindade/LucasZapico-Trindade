@@ -7,17 +7,17 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 Sou Lucas Trindade, estudante de Análise e Desenvolvimento de Sistemas e atualmente no final do primeiro semestre. Estou construindo uma base sólida em lógica, programação e backend, além de participar de um bootcamp para acelerar minha evolução.
 Busco minha primeira oportunidade como estagiário em TI, onde eu possa aplicar meus conhecimentos e crescer profissionalmente.
-  <ul>
-🔧 Tecnologias e Conceitos
+  
+  🔧 Tecnologias e Conceitos
 
-✔ Python
-✔ Lógica de Programação
-✔ Estruturas de Repetição
-✔ Estruturas Condicionais
-✔ Funções
-✔ SQL
-✔ HTML & CSS
-</ul>
+  ✔ -Python
+  ✔ -Lógica de Programação
+  ✔ -Estruturas de Repetição
+  ✔ -Estruturas Condicionais
+  ✔ -Funções
+  ✔ -SQL
+  ✔ -HTML & CSS
+  
 🛠️ Ferramentas que utilizo
 
 IA (como apoio no aprendizado e na prática)
